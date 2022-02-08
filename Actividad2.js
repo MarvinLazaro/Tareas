@@ -16,6 +16,7 @@ switch (mes){
         break;
     case 5:
         alert("Es Primavera");
+		break;
     case 6:
         alert("Es Verano");
         break;
